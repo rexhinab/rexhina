@@ -1,6 +1,6 @@
 ## Welcome to my website.
 
-I will update the website soon. :) 
+I will update the website soon. (UPDATE) 
 
 ### Markdown
 
