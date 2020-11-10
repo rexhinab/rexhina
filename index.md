@@ -6,7 +6,7 @@ My main research is in sentence- and document-level semantics with a focus on mu
 
 ## News
 
-#### Check out our recent EMNLP2020 paper:
+### Check out our recent EMNLP2020 paper:
 
 Rexhina Blloshmi, Rocco Tripodi, and Roberto Navigli. 2020. [XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques](https://www.aclweb.org/anthology/2020.emnlp-main.195.pdf) *Proceedings of EMNLP2020*.
 
@@ -14,7 +14,7 @@ Rexhina Blloshmi, Rocco Tripodi, and Roberto Navigli. 2020. [XL-AMR: Enabling Cr
 
 To learn more, read check the [XL-AMR in GitHub](https://github.com/SapienzaNLP/xl-amr).
 
-## Reference
+#### Reference
 ```
 @inproceedings{blloshmi-etal-2020-enabling,
     title = "{XL-AMR}: {E}nabling Cross-Lingual {AMR} Parsing with Transfer Learning Techniques",
