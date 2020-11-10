@@ -12,7 +12,7 @@ Rexhina Blloshmi, Rocco Tripodi, and Roberto Navigli. 2020. [XL-AMR: Enabling Cr
 
 **XL-AMR** is a **cross-lingual AMR parser** that exploits the existing training data in English to transfer semantic representations across languages. The achieved results shed light on the applicability of AMR  as an interlingua and set the state of the art in Chinese, German, Italian and Spanish cross-lingual AMR parsing. Furthermore, a detailed qualitative analysis shows that the proposed parser can overcome common translation divergences among languages.
 
-To learn more, read check the [XL-AMR in GitHub](https://github.com/SapienzaNLP/xl-amr).
+To learn more, check [XL-AMR in GitHub](https://github.com/SapienzaNLP/xl-amr).
 
 #### Reference
 ```
