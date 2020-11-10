@@ -1,35 +1,7 @@
-## Welcome to my website.
+## About
 
-I will update the website soon. (UPDATE) 
+I am a PhD student at Sapienza University of Rome. I am part of the Sapienza NLP group led by prof. [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/). My main research is in sentence- and document-level semantics with a focus on multilinguality.
 
-### Markdown
+### Check out my recent EMNLP paper:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rexhinab/rexhina.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
