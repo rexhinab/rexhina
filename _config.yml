@@ -5,6 +5,4 @@ google_analytics:
 theme: jekyll-theme-dinky
 github:
   is_project_page: false
-social_links:
-    twitter: rexhinab
-    github: rexhinab
+logo: rexhina_photo_cv.jpg
