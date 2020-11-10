@@ -2,7 +2,7 @@
 
 I am a PhD student at Sapienza University of Rome. I am part of the Sapienza NLP group led by prof. [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/). My main research is in sentence- and document-level semantics with a focus on multilinguality.
 
-### Check out my recent EMNLP2020 paper:
+### Check out our recent EMNLP2020 paper:
 
 Rexhina Blloshmi, Rocco Tripodi, and Roberto Navigli. 2020. [XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques](https://www.aclweb.org/anthology/2020.emnlp-main.195.pdf) *Proceedings of EMNLP2020*.
 
