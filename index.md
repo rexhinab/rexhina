@@ -1,4 +1,4 @@
-## About
+## Welcome!
 
 I am a PhD student at Sapienza University of Rome. I am a member of the [Sapienza NLP](http://nlp.uniroma1.it/) group led by prof. [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/). 
 
