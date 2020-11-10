@@ -6,5 +6,5 @@ theme: jekyll-theme-architect
 github:
   is_project_page: false
 social_links:
-    twitter: [@rexhinab](https://twitter.com/rexhina_b)
-    github: [rexhinab](https://github.com/rexhinab)
+    twitter: @rexhinab
+    github: rexhinab
